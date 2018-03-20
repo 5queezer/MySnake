@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySnake SZF</string>
+    <string name="gameover">Game Over!</string>
+    <string name="gameover_klick">Klicke für ein Neues Spiel</string>
+</resources>
